@@ -1,0 +1,4 @@
+opencv-python
+Pillow
+urllib3
+matplotlib
