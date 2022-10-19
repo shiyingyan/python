@@ -2,3 +2,5 @@ opencv-python
 Pillow
 urllib3
 matplotlib
+memory_profiler
+PyMySQL==0.9.3
