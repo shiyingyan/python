@@ -3,7 +3,7 @@
 import os
 import sys
 
-'''递归删除文件或目录'''
+'''递归删除指定文件或目录'''
 
 
 def recursive_rm_file(*files):
